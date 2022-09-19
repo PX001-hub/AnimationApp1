@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C42824628D331CB00399589 /* Extention + Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C42824528D331CB00399589 /* Extention + Button.swift */; };
+		2C42824628D331CB00399589 /* Extention + RedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C42824528D331CB00399589 /* Extention + RedButton.swift */; };
+		2CEF2BF828D8F5BB00974B17 /* Extention + OrangeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEF2BF728D8F5BB00974B17 /* Extention + OrangeButton.swift */; };
 		A8F990DE240CFF6A00761CAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F990DD240CFF6A00761CAA /* AppDelegate.swift */; };
 		A8F990E0240CFF6A00761CAA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F990DF240CFF6A00761CAA /* SceneDelegate.swift */; };
 		A8F990E2240CFF6A00761CAA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F990E1240CFF6A00761CAA /* ViewController.swift */; };
@@ -19,7 +20,8 @@
 
 /* Begin PBXFileReference section */
 		2A6EABDF913FC46056E5A9B0 /* Pods_AnimationApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnimationApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2C42824528D331CB00399589 /* Extention + Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extention + Button.swift"; sourceTree = "<group>"; };
+		2C42824528D331CB00399589 /* Extention + RedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extention + RedButton.swift"; sourceTree = "<group>"; };
+		2CEF2BF728D8F5BB00974B17 /* Extention + OrangeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extention + OrangeButton.swift"; sourceTree = "<group>"; };
 		7634A4A0B30E124A07A21C4E /* Pods-AnimationApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnimationApp.debug.xcconfig"; path = "Target Support Files/Pods-AnimationApp/Pods-AnimationApp.debug.xcconfig"; sourceTree = "<group>"; };
 		A54B839AD5EA9D71F8FDAAE9 /* Pods-AnimationApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnimationApp.release.xcconfig"; path = "Target Support Files/Pods-AnimationApp/Pods-AnimationApp.release.xcconfig"; sourceTree = "<group>"; };
 		A8F990DA240CFF6A00761CAA /* AnimationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,7 +79,8 @@
 				A8F990DD240CFF6A00761CAA /* AppDelegate.swift */,
 				A8F990DF240CFF6A00761CAA /* SceneDelegate.swift */,
 				A8F990E1240CFF6A00761CAA /* ViewController.swift */,
-				2C42824528D331CB00399589 /* Extention + Button.swift */,
+				2CEF2BF728D8F5BB00974B17 /* Extention + OrangeButton.swift */,
+				2C42824528D331CB00399589 /* Extention + RedButton.swift */,
 				A8F990E3240CFF6A00761CAA /* Main.storyboard */,
 				A8F990E6240CFF6B00761CAA /* Assets.xcassets */,
 				A8F990E8240CFF6B00761CAA /* LaunchScreen.storyboard */,
@@ -209,8 +212,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C42824628D331CB00399589 /* Extention + Button.swift in Sources */,
+				2C42824628D331CB00399589 /* Extention + RedButton.swift in Sources */,
 				A8F990E2240CFF6A00761CAA /* ViewController.swift in Sources */,
+				2CEF2BF828D8F5BB00974B17 /* Extention + OrangeButton.swift in Sources */,
 				A8F990DE240CFF6A00761CAA /* AppDelegate.swift in Sources */,
 				A8F990E0240CFF6A00761CAA /* SceneDelegate.swift in Sources */,
 			);

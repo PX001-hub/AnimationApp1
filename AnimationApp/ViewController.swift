@@ -14,15 +14,13 @@ class ViewController: UIViewController {
     
     @IBOutlet var coreAnimationRedView: UIView!
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    
-    }
+   
 
     @IBAction func runCoreAnimationOrange(_ sender: UIButton) {
+        
     }
     
-    
+     
     @IBAction func runCoreAnimationRed(_ sender: UIButton) {
     }
     

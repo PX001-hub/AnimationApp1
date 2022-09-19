@@ -39,7 +39,7 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sPD-eA-Z5s">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sPD-eA-Z5s" customClass="RedButton" customModule="AnimationApp" customModuleProvider="target">
                                 <rect key="frame" x="87" y="717" width="240" height="35"/>
                                 <color key="backgroundColor" red="1" green="0.14117647059999999" blue="0.25882352939999997" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -56,7 +56,7 @@
                                     <action selector="runCoreAnimationRed:" destination="cSJ-3j-1VO" eventType="touchUpInside" id="6BF-ET-eJ9"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IZx-mI-ijI">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IZx-mI-ijI" customClass="OrangeButtonView" customModule="AnimationApp" customModuleProvider="target">
                                 <rect key="frame" x="87" y="658" width="240" height="35"/>
                                 <color key="backgroundColor" red="1" green="0.72156862749999995" blue="0.18823529410000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
